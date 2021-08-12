@@ -29,9 +29,9 @@ The purpose of this project is to implement the same, it focuses on analyzing th
 ## Markov Chain Model
 1. Markov chains is a process which maps the movement and gives a probability distribution, for moving from one state to another state. 
 2. A Markov Chain is defined by three properties: 
-  2.1. State space – set of all the states in which process could potentially exist 
-  2.2. Transition operator –the probability of moving from one state to other state 
-  2.3. Current state probability distribution – probability distribution of being in any one of the states at the start of the process. 
+  1. State space – set of all the states in which process could potentially exist 
+  2. Transition operator –the probability of moving from one state to other state 
+  3. Current state probability distribution – probability distribution of being in any one of the states at the start of the process. 
 3. Which can be interpreted by the heat map generated or transition matrix. 
 4. Removal effect principle says that if we want to find the contribution of each channel in the customer journey, 
 5. We can do so by removing each channel and see how many conversions are happening without that channel being in place. 
@@ -43,8 +43,8 @@ The purpose of this project is to implement the same, it focuses on analyzing th
 ### Removal effect for optimization 
 1. Removal effect principle demonstrates that the contribution of each channel in the customer journey is determined by removing each channel and seeing how many conversions occur without that channel being in place. 
 2. In other words, it gives you an idea about: 
-  2.1. how much does a given channel affect the probability of conversion 
-  2.2. which touch points are the most important in the customer journey 
+  1. how much does a given channel affect the probability of conversion 
+  2. which touch points are the most important in the customer journey 
 3. Removal effect can take into account either conversion or revenue, depending on the outcome you want to track. 
 4. Hence, removal effect becomes very handy while analyzing and optimizing the ROI (return on investment)
 
