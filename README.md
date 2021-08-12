@@ -1,1 +1,1 @@
-# Multichannel-Maarketing-Attribution
+# Multichannel-Marketing-Attribution
